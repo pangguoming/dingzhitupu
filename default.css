@@ -217,10 +217,6 @@ img.right {
 
 #content h1, h2, h3, h4, h5, h6 {
     color: #222;
-    line-height: 1.2em !important;
-    margin-bottom: 0;
-    margin-top: 0;
-    font-weight: 600;
 }
 
 #latest-post {
